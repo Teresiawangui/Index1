@@ -1,0 +1,10 @@
+#container{
+    padding: 20px;
+    margin: 5%;
+    border: solid 6px;
+    border-color: blue;
+}
+#container2{
+ border-style: dotted;
+ border-color: rgb(196, 23, 57);
+}
